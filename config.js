@@ -20,9 +20,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
+global.owner = ['6281211037493']
+global.ownernomer = "6281211037493"
+global.premium = ['6281211037493']
 global.packname = 'Sticker By'
 global.author = 'GabutBot v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
@@ -60,15 +60,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/yangjunming12'
-global.myyt = 'Yt kamu'
-global.myytv = 'Yt video kamu'
-global.mygc = "Grup wa kamu"
+global.mygit = 'https://github.com/ZurrBot'
+global.myyt = 'https://youtube.com/ZURR_EDITZ'
+global.myytv = 'https://youtube.com/ZURR_EDITZ'
+global.mygc = "https://chat.whatsapp.com/DrpWVw0ddQnGrNo3Om39Bx"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
-global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.akulaku = 'Bot by ZurrMd'
+global.ytname = 'ZURR EDITZ' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
